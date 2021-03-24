@@ -1,9 +1,9 @@
 var app = new Vue(
     {
-        el: "#titolo",
+        el: "#box",
         data: {
             message: 'Hello Vue!',
-            hello : "sunburn300.png"
+            avatar : "sodalite-rough-crystals.jpg"
         }
     }
 )
